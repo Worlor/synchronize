@@ -2,7 +2,7 @@
 
 // require('longjohn')
 
-var sync   = require('../sync')
+var sync   = require('../dist/sync')
 var Fiber = require('fibers')
 var expect = require('chai').expect
 
